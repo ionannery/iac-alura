@@ -21,4 +21,4 @@ Neste App são exploradas as seguintes técnicas e tecnologias:
 - **Criação de playbooks**: os playbooks são parte integral do ansible e descrevem quais os passos a serem seguidos
 - **Separação de ambientes**: 2 ambientes separados, construidos de forma automatica pelo Terraform, reultilizando codigo.
 - **Execução de APIs**: como iniciar um API automaticamente apos a configuração da maquina
-- **Criação do load balancer**: o load balancer é um programa ultilziado para distribuir requisições entre multiplas maquinas
+- **Criação do load balancer**: o load balancer é um programa ultilziado para distribuir requisições entre multiplas máquinas
